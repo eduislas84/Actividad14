@@ -1,0 +1,7 @@
+WARNING 2025-03-21 21:46:03,208 log Not Found: /
+WARNING 2025-03-21 21:46:03,209 basehttp "GET / HTTP/1.1" 404 2339
+WARNING 2025-03-21 21:46:03,295 log Not Found: /favicon.ico
+WARNING 2025-03-21 21:46:03,295 basehttp "GET /favicon.ico HTTP/1.1" 404 2390
+WARNING 2025-03-21 21:46:16,181 views Esto es un mensaje WARNING.
+ERROR 2025-03-21 21:46:16,182 views Esto es un mensaje ERROR.
+CRITICAL 2025-03-21 21:46:16,182 views Esto es un mensaje CRITICAL.
